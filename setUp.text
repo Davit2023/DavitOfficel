@@ -1,0 +1,2 @@
+-package management: npm, yarn
+-install: yarn install, yarn dev( or u can check build nuxt for production)
