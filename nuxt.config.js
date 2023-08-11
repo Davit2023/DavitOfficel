@@ -13,16 +13,16 @@ export default {
             { name:'keywords',content:'davitofficial,davitofficial.info,www.davitofficial,www.davitofficial.info'},
 
             { hid: 'og:site_name', property:'og:site_name', content:'DAVIT OFFICIAL' },
-            { hid: 'og:url', property:'og:url', content:'https://www.davitofficial.info/' },
+            { hid: 'og:url', property:'og:url', content:'https://davitofficial.info/' },
             { hid: 'og:title',property:'og:title', content:'welcome to davit-official' },
             { hid: 'og:description',property:'og:description', content:"My name is Davit Choun, I'm a website programmer. I have more than 3 years experience in website development. I develop websites with HTML, CSS, Bootstrap, JavaScript,Jquery ,Vuejs ,Nuxtjs ,UniApp,PHP , Larave and ThinkPhp ." },
-            { hid: 'og:image',property:'og:image', content:'https://www.davitofficial.info/_nuxt/img/back-end-developer-4316118-3611968.ec77ec6.webp' },
+            { hid: 'og:image',property:'og:image', content:'_nuxt/img/back-end-developer-4316118-3611968.ec77ec6.webp' },
 
-            { hid: 'twitter:card', content:'https://www.davitofficial.info/' },
-            { hid: 'twitter:url', content:'https://www.davitofficial.info/' },
+            { hid: 'twitter:card', content:'https://davitofficial.info/' },
+            { hid: 'twitter:url', content:'https://davitofficial.info/' },
             { hid: 'twitter:title', content:'welcome to davit-official' },
             { hid: 'twitter:description', content:"My name is Davit Choun, I'm a website programmer. I have more than 3 years experience in website development. I develop websites with HTML, CSS, Bootstrap, JavaScript,Jquery ,Vuejs ,Nuxtjs ,UniApp,PHP , Larave and ThinkPhp ." },
-            { hid: 'twitter:image', content:'https://www.davitofficial.info/_nuxt/img/back-end-developer-4316118-3611968.ec77ec6.webp' },
+            { hid: 'twitter:image', content:'https://davitofficial.info/_nuxt/img/back-end-developer-4316118-3611968.ec77ec6.webp' },
 
         ],
         link: [
