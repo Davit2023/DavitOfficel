@@ -2,7 +2,7 @@
   <div>
     <div class="header-page padding-top" data-aos="fade-in" data-aos-delay="300">
       <h1 class="text-white">Contact</h1>
-      <p class="text-white">You can contact me by: <a class="text-white" href="tel:+85599754675">+85599754675</a></p>
+      <p class="text-white">You can contact me by: <a class="text-white" href="tel:+855314128120">+855314128120</a></p>
       <div class="padding-top"></div>
     </div>
 
@@ -19,7 +19,7 @@
             <div class="row">
               <div class="col-sm-10">
                 <h5 class="text-gray font-w-normal">Phone</h5>
-                <p class="text-gray"><a class="text-gray" href="tel:+85599754675">+85599754675</a></p>
+                <p class="text-gray"><a class="text-gray" href="tel:+855314128120">+855314128120</a></p>
               </div>
             </div>
             <div class="row">
