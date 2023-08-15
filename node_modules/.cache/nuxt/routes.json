@@ -3,48 +3,56 @@
     "name": "about",
     "path": "/about",
     "component": "C:\\\\Users\\\\MSI\\\\Desktop\\\\PersonalBlog\\\\pages\\\\about.vue",
-    "chunkName": "pages/about"
+    "chunkName": "pages/about",
+    "_name": "_5f223637"
   },
   {
     "name": "contact",
     "path": "/contact",
     "component": "C:\\\\Users\\\\MSI\\\\Desktop\\\\PersonalBlog\\\\pages\\\\contact.vue",
-    "chunkName": "pages/contact"
+    "chunkName": "pages/contact",
+    "_name": "_21ea58ca"
   },
   {
     "name": "course",
     "path": "/course",
     "component": "C:\\\\Users\\\\MSI\\\\Desktop\\\\PersonalBlog\\\\pages\\\\course.vue",
-    "chunkName": "pages/course"
+    "chunkName": "pages/course",
+    "_name": "_72121e3e"
   },
   {
     "name": "home1",
     "path": "/home1",
     "component": "C:\\\\Users\\\\MSI\\\\Desktop\\\\PersonalBlog\\\\pages\\\\home1.vue",
-    "chunkName": "pages/home1"
+    "chunkName": "pages/home1",
+    "_name": "_2aa65f5c"
   },
   {
     "name": "project",
     "path": "/project",
     "component": "C:\\\\Users\\\\MSI\\\\Desktop\\\\PersonalBlog\\\\pages\\\\project\\\\index.vue",
-    "chunkName": "pages/project/index"
+    "chunkName": "pages/project/index",
+    "_name": "_0fc15042"
   },
   {
     "name": "service",
     "path": "/service",
     "component": "C:\\\\Users\\\\MSI\\\\Desktop\\\\PersonalBlog\\\\pages\\\\service.vue",
-    "chunkName": "pages/service"
+    "chunkName": "pages/service",
+    "_name": "_a6ecae42"
   },
   {
     "name": "index",
     "path": "/",
     "component": "C:\\\\Users\\\\MSI\\\\Desktop\\\\PersonalBlog\\\\pages\\\\index.vue",
-    "chunkName": "pages/index"
+    "chunkName": "pages/index",
+    "_name": "_7eda10fc"
   },
   {
     "name": "project-edit",
     "path": "/project/:edit",
     "component": "C:\\\\Users\\\\MSI\\\\Desktop\\\\PersonalBlog\\\\pages\\\\project\\\\_edit.vue",
-    "chunkName": "pages/project/_edit"
+    "chunkName": "pages/project/_edit",
+    "_name": "_e5b91b14"
   }
 ]

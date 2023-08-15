@@ -151,7 +151,8 @@ export default {
   height: 37px;
   position: fixed;
   z-index: 10000;
-  right: 15px;
+  right: auto;
+  margin-left: 10px;
   bottom: 24px;
   opacity: 0;
   transition: visibility 0s, opacity 0.5s linear;
