@@ -4,7 +4,7 @@
       <div class="full-height text-center">
         <h3 class="pt-4 mt-5 text-gray text-uppercase course-head">MY SERVICES</h3>
         <div class="container mt-3" style="padding-bottom: 60px;">
-          <div class="row pt-4">
+          <div class="row pt-4" style="overflow: hidden;">
             <div class="col-lg-4 col-md-4 col-sm-6 col-12 p-2" data-aos="fade-left" data-aos-delay="300">
               <div class="my_course">
                 <div class="box">

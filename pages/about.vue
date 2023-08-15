@@ -110,7 +110,7 @@
               <h1 class="text-uppercase font-w-header interest">
                 WORK EXPERIENCE
               </h1>
-              <div class="row pt-4">
+              <div class="row pt-4" style="overflow: hidden;">
                 <div class="col-12 col-sm-4 col-md-4 col-lg-4 p-2" data-aos="fade-left" data-aos-delay="300">
                   <div class="experience pt-2">
                     <img src="~/assets/img/backend-development.png" class="image-icon lg mb-2" alt="" />
@@ -357,7 +357,7 @@
 
     <div class="container">
       <div class="sec-padding">
-        <div class="row">
+        <div class="row" style="overflow: hidden;">
           <div class="col-sm-12 text-center timeline">
             <h1 class="text-uppercase">education</h1>
             <ul>
@@ -404,7 +404,7 @@ export default {
 };
 </script>
 <style lang="scss">
-@import '~/assets/css/about.css';
+// @import '~/assets/css/about.css';
 
 
 @mixin wide-screen {
@@ -462,6 +462,10 @@ export default {
     transform: scale(0.95);
   }
 }
+
+
+
+
 
 .main-box2 {
   width: 227px;
@@ -524,19 +528,16 @@ export default {
   }
 
   @include sp {
-    // padding-top: 0px;
     padding-bottom: 50px;
   }
 
   @include ph {
-    // padding-top: 0px;
     padding-bottom: 50px;
   }
 }
 
 .experience {
   border-radius: 10px;
-  // padding: 10px 10px 10px 0px;
   transition: all 0.3s ease;
 }
 

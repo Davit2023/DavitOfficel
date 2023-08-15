@@ -26,7 +26,7 @@
             </div>
           </div>
           <div class="col-sm-6 col-md-6 col-lg-6">
-            <div class="" id="cotact">
+            <div class="" id="cotact" style="overflow: hidden;">
               <img class="" src="~/assets/img/back-end-developer-4316118-3611968.webp" alt="pheak" />
             </div>
             <!-- <div class="image-owner" id="cotact">
@@ -39,7 +39,7 @@
     <div class="section-white" data-aos="fade-up" data-aos-delay="600">
       <div class="container pt-4 pb-4">
         <div class="sec-paddingss">
-          <div class="row">
+          <div class="row" style="overflow: hidden;">
             <div class="col-sm-6">
               <img src="~/assets/img/full-stack-developer-working-on-project-5248497-4403356.webp" width="500px"
                 id="cotact" class="single-image" alt="pheak" />
@@ -77,7 +77,7 @@
               <h1 class="text-uppercase font-w-header interest mt-3">
                 interest Content
               </h1>
-              <div class="row pt-4 mb-3">
+              <div class="row pt-4 mb-3" style="overflow: hidden;">
                 <div class="col-12 col-sm-4 col-md-4 col-lg-4" data-aos="fade-left " data-aos-delay="500">
                   <div class="web_interest">
                     <img src="~/assets/icon/web-development.png" class="image-icon lg mb-2" alt="" />
