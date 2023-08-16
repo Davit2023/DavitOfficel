@@ -70,7 +70,7 @@
     </div>
     <div class="section-content" data-aos="fade-up" data-aos-delay="300">
       <div class="container">
-        <div class="c">
+        <div class="">
           <div class="row">
             <div class="col-sm-12 text-center">
               <!-- <div class="content" > -->
@@ -79,7 +79,7 @@
               </h1>
               <div class="row pt-4 mb-3" style="overflow: hidden;">
                 <div class="col-12 col-sm-4 col-md-4 col-lg-4" data-aos="fade-left " data-aos-delay="500">
-                  <div class="web_interest">
+                  <div class="interests">
                     <img src="~/assets/icon/web-development.png" class="image-icon lg mb-2" alt="" />
                     <h3 class="text-white">Web Develop</h3>
                     <p>
@@ -90,7 +90,7 @@
                   </div>
                 </div>
                 <div class="col-12 col-sm-4 col-md-4 col-lg-4" data-aos="fade-left" data-aos-delay="700">
-                  <div class="web_interest">
+                  <div class="interests">
                     <img src="~/assets/icon/backend-icon-24.png" class="image-icon lg mb-2" alt="" />
                     <h3 class="text-white">BackEnd Developer</h3>
                     <p>
@@ -100,7 +100,7 @@
                   </div>
                 </div>
                 <div class="col-12 col-sm-4 col-md-4 col-lg-4" data-aos="fade-left" data-aos-delay="900">
-                  <div class="web_interest">
+                  <div class="experience">
                     <img src="~/assets/icon/ux.png" class="image-icon lg mb-2" alt="" />
                     <h3 class="text-white">Frontend Developer</h3>
                     <p>
@@ -236,13 +236,24 @@ export default {
 
 .web_interest {
   border-radius: 10px;
-  padding: 10px 10px 10px 0px;
+  padding: 18px 10px 10px 0px;
   transition: all 0.3s ease;
 }
 
 .web_interest:hover {
   box-shadow: 0 0 40px 4px cyan;
   transform: scale(1.02);
+}
+
+.interests {
+  border-radius: 10px;
+  transition: all 0.3s ease;
+  padding: 6px;
+}
+
+.interests:hover {
+  background-color: rgb(21, 20, 20);
+  transform: scale(1.1);
 }
 
 #cotact {
