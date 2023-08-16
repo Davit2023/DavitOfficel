@@ -2,7 +2,7 @@
   <div>
     <div class="section-content" data-aos="fade-in" data-aos-delay="300">
       <div class="container pt-4 pb-4 home_me">
-        <div class="row" style="height: 100%;">
+        <div class="row" style="height: 100%;overflow: hidden;" >
           <div class="col-sm-6 col-md-6 col-lg-6 pb-4 pt-4">
             <div class="">
               <p class="">Hello welcome </p>
@@ -72,7 +72,7 @@
       <div class="container">
         <div class="">
           <div class="row">
-            <div class="col-sm-12 text-center">
+            <div class="col-sm-12 text-center" style="overflow: hidden;">
               <!-- <div class="content" > -->
               <h1 class="text-uppercase font-w-header interest mt-3">
                 interest Content
@@ -249,7 +249,6 @@ export default {
   border-radius: 10px;
   transition: all 0.3s ease;
   padding: 6px;
-  overflow: hidden;
 }
 
 .interests:hover {

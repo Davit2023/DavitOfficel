@@ -106,13 +106,13 @@
       <div class="container">
         <div class="sec-padding">
           <div class="row">
-            <div class="col-sm-12 text-center">
+            <div class="col-sm-12 text-center" style="overflow: hidden;">
               <h1 class="text-uppercase font-w-header interest">
                 WORK EXPERIENCE
               </h1>
               <div class="row pt-4">
                 <div class="col-12 col-sm-4 col-md-4 col-lg-4 p-2" data-aos="fade-left" data-aos-delay="300">
-                  <div class="experience pt-2" style="overflow: hidden;">
+                  <div class="experience pt-2">
                     <img src="~/assets/img/backend-development.png" class="image-icon lg mb-2" alt="" />
                     <h3 class="text-white">Web Developer</h3>
                     <span>
@@ -129,7 +129,7 @@
                   </div>
                 </div>
                 <div class="col-12 col-sm-4 col-md-4 col-lg-4 p-2" data-aos="fade-left " data-aos-delay="500">
-                  <div class="experience" style="overflow: hidden;">
+                  <div class="experience">
                     <img src="~/assets/img/backend-development.png" class="image-icon lg mb-2" alt="" />
                     <h3 class="text-white">Backend Developer</h3>
                     <span>
@@ -146,7 +146,7 @@
                   </div>
                 </div>
                 <div class="col-12 col-sm-4 col-md-4 col-lg-4 p-2" data-aos="fade-left" data-aos-delay="700">
-                  <div class="experience" style="overflow: hidden;">
+                  <div class="experience">
                     <img src="~/assets/img/backend-development.png" class="image-icon lg mb-2" alt="" />
                     <h3 class="text-white">Backend Developer</h3>
                     <span>
@@ -165,7 +165,7 @@
                 <div class="col-12 col-sm-4 col-md-4 col-lg-4 p-2">
                 </div>
                 <div class="col-12 col-sm-4 col-md-4 col-lg-4 p-2" data-aos="fade-left" data-aos-delay="900">
-                  <div class="experience" style="overflow: hidden;">
+                  <div class="experience">
                     <img src="~/assets/img/backend-development.png" class="image-icon lg mb-2" alt="" />
                     <h3 class="text-white">Backend Developer</h3>
                     <span>
@@ -355,9 +355,9 @@
       </div>
     </div>
 
-    <div class="container">
+    <div class="container" style="overflow: hidden;">
       <div class="sec-padding">
-        <div class="row" style="overflow: hidden;">
+        <div class="row">
           <div class="col-sm-12 text-center timeline">
             <h1 class="text-uppercase">education</h1>
             <ul>
