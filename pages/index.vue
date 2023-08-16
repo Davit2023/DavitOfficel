@@ -26,7 +26,7 @@
             </div>
           </div>
           <div class="col-sm-6 col-md-6 col-lg-6">
-            <div class="" id="cotact" style="overflow: hidden;">
+            <div class="" id="cotact">
               <img class="" src="~/assets/img/back-end-developer-4316118-3611968.webp" alt="pheak" />
             </div>
             <!-- <div class="image-owner" id="cotact">
@@ -77,7 +77,7 @@
               <h1 class="text-uppercase font-w-header interest mt-3">
                 interest Content
               </h1>
-              <div class="row pt-4 mb-3" style="overflow: hidden;">
+              <div class="row pt-4 mb-3">
                 <div class="col-12 col-sm-4 col-md-4 col-lg-4" data-aos="fade-left " data-aos-delay="500">
                   <div class="interests">
                     <img src="~/assets/icon/web-development.png" class="image-icon lg mb-2" alt="" />
@@ -100,7 +100,7 @@
                   </div>
                 </div>
                 <div class="col-12 col-sm-4 col-md-4 col-lg-4" data-aos="fade-left" data-aos-delay="900">
-                  <div class="experience">
+                  <div class="interests">
                     <img src="~/assets/icon/ux.png" class="image-icon lg mb-2" alt="" />
                     <h3 class="text-white">Frontend Developer</h3>
                     <p>
@@ -249,6 +249,7 @@ export default {
   border-radius: 10px;
   transition: all 0.3s ease;
   padding: 6px;
+  overflow: hidden;
 }
 
 .interests:hover {

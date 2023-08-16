@@ -110,9 +110,9 @@
               <h1 class="text-uppercase font-w-header interest">
                 WORK EXPERIENCE
               </h1>
-              <div class="row pt-4" style="overflow: hidden;">
+              <div class="row pt-4">
                 <div class="col-12 col-sm-4 col-md-4 col-lg-4 p-2" data-aos="fade-left" data-aos-delay="300">
-                  <div class="experience pt-2">
+                  <div class="experience pt-2" style="overflow: hidden;">
                     <img src="~/assets/img/backend-development.png" class="image-icon lg mb-2" alt="" />
                     <h3 class="text-white">Web Developer</h3>
                     <span>
@@ -129,7 +129,7 @@
                   </div>
                 </div>
                 <div class="col-12 col-sm-4 col-md-4 col-lg-4 p-2" data-aos="fade-left " data-aos-delay="500">
-                  <div class="experience">
+                  <div class="experience" style="overflow: hidden;">
                     <img src="~/assets/img/backend-development.png" class="image-icon lg mb-2" alt="" />
                     <h3 class="text-white">Backend Developer</h3>
                     <span>
@@ -146,7 +146,7 @@
                   </div>
                 </div>
                 <div class="col-12 col-sm-4 col-md-4 col-lg-4 p-2" data-aos="fade-left" data-aos-delay="700">
-                  <div class="experience">
+                  <div class="experience" style="overflow: hidden;">
                     <img src="~/assets/img/backend-development.png" class="image-icon lg mb-2" alt="" />
                     <h3 class="text-white">Backend Developer</h3>
                     <span>
@@ -165,7 +165,7 @@
                 <div class="col-12 col-sm-4 col-md-4 col-lg-4 p-2">
                 </div>
                 <div class="col-12 col-sm-4 col-md-4 col-lg-4 p-2" data-aos="fade-left" data-aos-delay="900">
-                  <div class="experience">
+                  <div class="experience" style="overflow: hidden;">
                     <img src="~/assets/img/backend-development.png" class="image-icon lg mb-2" alt="" />
                     <h3 class="text-white">Backend Developer</h3>
                     <span>
