@@ -2,49 +2,49 @@
   {
     "name": "about",
     "path": "/about",
-    "component": "C:\\\\Users\\\\MSI\\\\Desktop\\\\PersonalBlog\\\\pages\\\\about.vue",
+    "component": "D:\\\\projects\\\\projects_2023\\\\PersonalBlog_production_github\\\\DavitOfficel\\\\pages\\\\about.vue",
     "chunkName": "pages/about"
   },
   {
     "name": "contact",
     "path": "/contact",
-    "component": "C:\\\\Users\\\\MSI\\\\Desktop\\\\PersonalBlog\\\\pages\\\\contact.vue",
+    "component": "D:\\\\projects\\\\projects_2023\\\\PersonalBlog_production_github\\\\DavitOfficel\\\\pages\\\\contact.vue",
     "chunkName": "pages/contact"
   },
   {
     "name": "course",
     "path": "/course",
-    "component": "C:\\\\Users\\\\MSI\\\\Desktop\\\\PersonalBlog\\\\pages\\\\course.vue",
+    "component": "D:\\\\projects\\\\projects_2023\\\\PersonalBlog_production_github\\\\DavitOfficel\\\\pages\\\\course.vue",
     "chunkName": "pages/course"
   },
   {
     "name": "home1",
     "path": "/home1",
-    "component": "C:\\\\Users\\\\MSI\\\\Desktop\\\\PersonalBlog\\\\pages\\\\home1.vue",
+    "component": "D:\\\\projects\\\\projects_2023\\\\PersonalBlog_production_github\\\\DavitOfficel\\\\pages\\\\home1.vue",
     "chunkName": "pages/home1"
   },
   {
     "name": "project",
     "path": "/project",
-    "component": "C:\\\\Users\\\\MSI\\\\Desktop\\\\PersonalBlog\\\\pages\\\\project\\\\index.vue",
+    "component": "D:\\\\projects\\\\projects_2023\\\\PersonalBlog_production_github\\\\DavitOfficel\\\\pages\\\\project\\\\index.vue",
     "chunkName": "pages/project/index"
   },
   {
     "name": "service",
     "path": "/service",
-    "component": "C:\\\\Users\\\\MSI\\\\Desktop\\\\PersonalBlog\\\\pages\\\\service.vue",
+    "component": "D:\\\\projects\\\\projects_2023\\\\PersonalBlog_production_github\\\\DavitOfficel\\\\pages\\\\service.vue",
     "chunkName": "pages/service"
   },
   {
     "name": "index",
     "path": "/",
-    "component": "C:\\\\Users\\\\MSI\\\\Desktop\\\\PersonalBlog\\\\pages\\\\index.vue",
+    "component": "D:\\\\projects\\\\projects_2023\\\\PersonalBlog_production_github\\\\DavitOfficel\\\\pages\\\\index.vue",
     "chunkName": "pages/index"
   },
   {
     "name": "project-edit",
     "path": "/project/:edit",
-    "component": "C:\\\\Users\\\\MSI\\\\Desktop\\\\PersonalBlog\\\\pages\\\\project\\\\_edit.vue",
+    "component": "D:\\\\projects\\\\projects_2023\\\\PersonalBlog_production_github\\\\DavitOfficel\\\\pages\\\\project\\\\_edit.vue",
     "chunkName": "pages/project/_edit"
   }
 ]

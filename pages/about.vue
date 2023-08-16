@@ -404,9 +404,7 @@ export default {
 };
 </script>
 <style lang="scss">
-// @import '~/assets/css/about.css';
-
-
+@import '~/assets/css/about.css';
 @mixin wide-screen {
   @media screen and (max-width: 1020px) {
     @content;
@@ -462,8 +460,6 @@ export default {
     transform: scale(0.95);
   }
 }
-
-
 
 
 
