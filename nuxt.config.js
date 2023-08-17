@@ -28,6 +28,13 @@ export default {
         link: [
             { rel: 'icon', type: 'image/x-icon', href: '/logo.png' },
             { rel: 'stylesheet', type: 'font', href: 'https://fonts.googleapis.com/css?family=Poppins:100,200,400,300,500,600,700' }
+        ],
+        script: [
+          {
+            src: "https://code.jquery.com/jquery-3.5.1.min.js",
+            async: true,
+            crossorigin: "anonymous"
+          },
         ]
     },
     target: 'static',
