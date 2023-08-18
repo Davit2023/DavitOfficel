@@ -10,16 +10,12 @@
                 <div class="box">
                   <div class="box-icon1"></div>
                   <div class="box-icon2">
-                    <img src="https://web-online-course.s3.ap-southeast-1.amazonaws.com/davitofficial/web_design.png"
-                      class="image-icon lg mb-2 box-img-service" alt="" />
+                    <img src="~/assets/icon/web_design.png" class="image-icon lg mb-2 box-img-service" alt="" />
                   </div>
                 </div>
                 <div class="" style="margin-top: -61px;">
                   <h3 class="text-white mt-3 title-service">WEB DESIGN</h3>
                 </div>
-                <!-- <p class="p-1">
-                  I'm a design and develop web application.
-                </p> -->
               </div>
             </div>
             <div class="col-lg-4 col-md-4 col-sm-6 col-12 p-2" data-aos="fade-left" data-aos-delay="500">
@@ -27,16 +23,12 @@
                 <div class="box">
                   <div class="box-icon1"></div>
                   <div class="box-icon2">
-                    <img src="https://web-online-course.s3.ap-southeast-1.amazonaws.com/davitofficial/develop_website.png"
-                      class="image-icon lg mb-2 box-img-service" alt="" />
+                    <img src="~/assets/img/develop_website.png" class="image-icon lg mb-2 box-img-service" alt="" />
                   </div>
                 </div>
                 <div class="" style="margin-top: -61px;">
                   <h3 class="text-white mt-3 title-service">DEVELOP WEB SITE</h3>
                 </div>
-                <!-- <p class="p-1">
-                  Development is one of my service, I develop website after designing
-                </p> -->
               </div>
             </div>
             <div class="col-lg-4 col-md-4 col-sm-6 col-12 p-2" data-aos="fade-left" data-aos-delay="700">
@@ -44,16 +36,12 @@
                 <div class="box">
                   <div class="box-icon1"></div>
                   <div class="box-icon2">
-                    <img src="https://web-online-course.s3.ap-southeast-1.amazonaws.com/davitofficial/pos.png"
-                      class="image-icon lg mb-2 box-img-service" alt="" />
+                    <img src="~/assets/img/pos.png" class="image-icon lg mb-2 box-img-service" alt="" />
                   </div>
                 </div>
                 <div class="" style="margin-top: -61px;">
                   <h3 class="text-white mt-3 title-service">DEVELOP POS</h3>
                 </div>
-                <!-- <p class="p-1">
-                  Development is one of my service, I develop website after designing
-                </p> -->
               </div>
             </div>
             <div class="col-lg-4 col-md-4 col-sm-6 col-12 p-2" data-aos="fade-left " data-aos-delay="900">
@@ -61,16 +49,12 @@
                 <div class="box">
                   <div class="box-icon1"></div>
                   <div class="box-icon2">
-                    <img src="https://web-online-course.s3.ap-southeast-1.amazonaws.com/davitofficial/development.png"
-                      class="image-icon lg mb-2 box-img-service" alt="" />
+                    <img src="~/assets/img/development.png" class="image-icon lg mb-2 box-img-service" alt="" />
                   </div>
                 </div>
                 <div class="" style="margin-top: -61px;">
                   <h3 class="text-white mt-3 title-service">DEVELOPMENT</h3>
                 </div>
-                <!-- <p class="p-1">
-                  Development is one of my service, I develop website after designing
-                </p> -->
               </div>
             </div>
             <div class="col-lg-4 col-md-4 col-sm-6 col-12 p-2" data-aos="fade-left " data-aos-delay="1100">
@@ -78,16 +62,12 @@
                 <div class="box">
                   <div class="box-icon1"></div>
                   <div class="box-icon2">
-                    <img src="https://web-online-course.s3.ap-southeast-1.amazonaws.com/davitofficial/support.png"
-                      class="image-icon lg mb-2 box-img-service" alt="" />
+                    <img src="~/assets/img/support.png" class="image-icon lg mb-2 box-img-service" alt="" />
                   </div>
                 </div>
                 <div class="" style="margin-top: -61px;">
                   <h3 class="text-white mt-3 title-service">SUPPORT</h3>
                 </div>
-                <!-- <p class="p-1">
-                  I offer assistance to developers, by helping them find solution to their problem while coding
-                </p> -->
               </div>
             </div>
             <div class="col-lg-4 col-md-4 col-sm-6 col-12 p-2" data-aos="fade-left" data-aos-delay="1300">
@@ -95,8 +75,7 @@
                 <div class="box">
                   <div class="box-icon1"></div>
                   <div class="box-icon2">
-                    <img src="https://web-online-course.s3.ap-southeast-1.amazonaws.com/davitofficial/maintenance.png"
-                      class="image-icon lg mb-2 box-img-service" alt="" />
+                    <img src="~/assets/img/maintenance.png" class="image-icon lg mb-2 box-img-service" alt="" />
                   </div>
                 </div>
                 <div class="" style="margin-top: -61px;">
@@ -201,4 +180,5 @@ export default {
 .title-service {
   font-size: 24px !important;
   font-weight: 700;
-}</style>
+}
+</style>

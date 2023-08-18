@@ -15,10 +15,6 @@
                 full-stack web developer. I develop websites with HTML, CSS, Bootstrap, JavaScript, Jquery, Vuejs, Nuxtjs,
                 Reactjs, Nodejs, UniApp, PHP,
                 Laravel and ThinkPhp .<br>
-                <!-- <br>
-                I grew up in Takeo province,I attended 10 January 2012 High School, graduating in the class of 2022. I received my bachelor's
-                degree in Computer Science​ and Engineer at RUPP.I started my career at phnom penh, worked for 1 years on web developer. I then worked for 1 year at CodeWriterKh as Backend Developer, after I’d start worked for 1 years at Onesala Co., Ltd as Backend Developer & Web
-                , and Freelance Developer. -->
               </p>
               <nuxt-link to="/contact" class="btn primary-btn text-uppercase hovers">
                 contact me
@@ -27,11 +23,8 @@
           </div>
           <div class="col-sm-6 col-md-6 col-lg-6">
             <div class="" id="cotact">
-              <img class="" src="https://web-online-course.s3.ap-southeast-1.amazonaws.com/davitofficial/back-end-developer-4316118-3611968.webp" alt="pheak" />
+              <img class="" src="~/assets/img/back-end-developer-4316118-3611968.webp" alt="pheak" />
             </div>
-            <!-- <div class="image-owner" id="cotact">
-              <img class="" src="~/assets/icon/1a4ccacfec1fc4b69284144492589f6e.png" alt="pheak" />
-            </div> -->
           </div>
         </div>
       </div>
@@ -41,7 +34,7 @@
         <div class="sec-paddingss">
           <div class="row" style="overflow: hidden;">
             <div class="col-sm-6">
-              <img src="https://web-online-course.s3.ap-southeast-1.amazonaws.com/davitofficial/full-stack-developer-working-on-project-5248497-4403356.webp" width="500px"
+              <img src="~/assets/img/full-stack-developer-working-on-project-5248497-4403356.webp" width="500px"
                 id="cotact" class="single-image" alt="pheak" />
             </div>
             <div class="col-sm-6">
@@ -67,14 +60,13 @@
         <div class="">
           <div class="row">
             <div class="col-sm-12 text-center" style="overflow: hidden;">
-              <!-- <div class="content" > -->
               <h1 class="text-uppercase font-w-header interest mt-3">
                 interest Content
               </h1>
               <div class="row pt-4 mb-3">
                 <div class="col-12 col-sm-4 col-md-4 col-lg-4" data-aos="fade-left " data-aos-delay="500">
                   <div class="interests">
-                    <img src="https://web-online-course.s3.ap-southeast-1.amazonaws.com/davitofficial/web-development.png" class="image-icon lg mb-2" alt="" />
+                    <img src="~/assets/icon/web-development.png" class="image-icon lg mb-2" alt="" />
                     <h3 class="text-white">Web Develop</h3>
                     <p>
                       Today, the online experience is essential to the success of every business and organization. Without
@@ -85,7 +77,7 @@
                 </div>
                 <div class="col-12 col-sm-4 col-md-4 col-lg-4" data-aos="fade-left" data-aos-delay="700">
                   <div class="interests">
-                    <img src="https://web-online-course.s3.ap-southeast-1.amazonaws.com/davitofficial/backend-icon-24.png" class="image-icon lg mb-2" alt="" />
+                    <img src="~/assets/icon/backend-icon-24.png" class="image-icon lg mb-2" alt="" />
                     <h3 class="text-white">BackEnd Developer</h3>
                     <p>
                       A back-end web developer is responsible for server-side web application logic and integration of the
@@ -95,7 +87,7 @@
                 </div>
                 <div class="col-12 col-sm-4 col-md-4 col-lg-4" data-aos="fade-left" data-aos-delay="900">
                   <div class="interests">
-                    <img src="https://web-online-course.s3.ap-southeast-1.amazonaws.com/davitofficial/ux.png" class="image-icon lg mb-2" alt="" />
+                    <img src="~/assets/icon/ux.png" class="image-icon lg mb-2" alt="" />
                     <h3 class="text-white">Frontend Developer</h3>
                     <p>
                       A front-end developer is a type of software developer who specializes in creating and designing the
@@ -122,13 +114,9 @@ export default {
 </script>
 <style lang="scss">
 // @media screen and (max-width: 1020px) {}
-
 // @media screen and (min-width: 960px) {}
-
 // @media screen and (min-width: 560px) and (max-width: 959px) {}
-
 // @media screen and (max-width: 559px) {}
-
 // @media screen and (max-width: 390px) {}
 
 @mixin wide-screen {
