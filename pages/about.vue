@@ -55,7 +55,7 @@
         <div class="sec-padding">
           <div class="main-profile mt-4" style="display: flex;justify-content: center;align-items: center;">
             <span class="main-box2" data-aos="fade-up" data-aos-duration="2100">
-              <img src="~/assets/img/IMG_5876.JPG" class="image-icon lg mb-2 box-img2" alt="" />
+              <img src="https://web-online-course.s3.ap-southeast-1.amazonaws.com/davitofficial/IMG_5876.JPG" class="image-icon lg mb-2 box-img2" alt="" />
             </span>
             <div class="main-box1">
               <div class="box-title">
@@ -113,7 +113,7 @@
               <div class="row pt-4">
                 <div class="col-12 col-sm-4 col-md-4 col-lg-4 p-2" data-aos="fade-left" data-aos-delay="300">
                   <div class="experience pt-2">
-                    <img src="~/assets/img/backend-development.png" class="image-icon lg mb-2" alt="" />
+                    <img src="https://web-online-course.s3.ap-southeast-1.amazonaws.com/davitofficial/backend-development.png" class="image-icon lg mb-2" alt="" />
                     <h3 class="text-white">Web Developer</h3>
                     <span>
                       <p style="margin-top:-5px">at New day Technology</p>
@@ -130,7 +130,7 @@
                 </div>
                 <div class="col-12 col-sm-4 col-md-4 col-lg-4 p-2" data-aos="fade-left " data-aos-delay="500">
                   <div class="experience">
-                    <img src="~/assets/img/backend-development.png" class="image-icon lg mb-2" alt="" />
+                    <img src="https://web-online-course.s3.ap-southeast-1.amazonaws.com/davitofficial/backend-development.png" class="image-icon lg mb-2" alt="" />
                     <h3 class="text-white">Backend Developer</h3>
                     <span>
                       <p style="margin-top:-5px">at CodeWriterKh</p>
@@ -147,7 +147,7 @@
                 </div>
                 <div class="col-12 col-sm-4 col-md-4 col-lg-4 p-2" data-aos="fade-left" data-aos-delay="700">
                   <div class="experience">
-                    <img src="~/assets/img/backend-development.png" class="image-icon lg mb-2" alt="" />
+                    <img src="https://web-online-course.s3.ap-southeast-1.amazonaws.com/davitofficial/backend-development.png" class="image-icon lg mb-2" alt="" />
                     <h3 class="text-white">Backend Developer</h3>
                     <span>
                       <p style="margin-top:-5px">at OneSala Co., Ltd</p>
@@ -166,7 +166,7 @@
                 </div>
                 <div class="col-12 col-sm-4 col-md-4 col-lg-4 p-2" data-aos="fade-left" data-aos-delay="900">
                   <div class="experience">
-                    <img src="~/assets/img/backend-development.png" class="image-icon lg mb-2" alt="" />
+                    <img src="https://web-online-course.s3.ap-southeast-1.amazonaws.com/davitofficial/backend-development.png" class="image-icon lg mb-2" alt="" />
                     <h3 class="text-white">Backend Developer</h3>
                     <span>
                       <p style="margin-top:-5px">at Hermit Crab Investment Co., Ltd</p>

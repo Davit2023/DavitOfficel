@@ -27,7 +27,7 @@
           </div>
           <div class="col-sm-6 col-md-6 col-lg-6">
             <div class="" id="cotact">
-              <img class="" src="~/assets/img/back-end-developer-4316118-3611968.webp" alt="pheak" />
+              <img class="" src="https://web-online-course.s3.ap-southeast-1.amazonaws.com/davitofficial/back-end-developer-4316118-3611968.webp" alt="pheak" />
             </div>
             <!-- <div class="image-owner" id="cotact">
               <img class="" src="~/assets/icon/1a4ccacfec1fc4b69284144492589f6e.png" alt="pheak" />
@@ -41,7 +41,7 @@
         <div class="sec-paddingss">
           <div class="row" style="overflow: hidden;">
             <div class="col-sm-6">
-              <img src="~/assets/img/full-stack-developer-working-on-project-5248497-4403356.webp" width="500px"
+              <img src="https://web-online-course.s3.ap-southeast-1.amazonaws.com/davitofficial/full-stack-developer-working-on-project-5248497-4403356.webp" width="500px"
                 id="cotact" class="single-image" alt="pheak" />
             </div>
             <div class="col-sm-6">
@@ -55,12 +55,6 @@
                 received mY bachelor's degree in Computer Science​ and Engineer at RUPP.I started my career at phnom penh,
                 worked for 1 years on web developer. I then worked for 1 year at CodeWriterKh as Backend Developer, after
                 I’d start worked for 1 years at Onesala Co., Ltd as Backend Developer & Web , and Freelance Developer.
-                <!-- My name is Pheap Sopheak. I was born in Jroy Kor village, Jiror
-                II Commune, Tbong Khmom District, KomPong Cham Province in 2000.
-                <br />
-                I finished my high school in 2018 at Samdach Me High School,
-                and continued with a bachelor's degree in the Computer Science
-                department of the Royal University of Phnom Penh. -->
               </p>
               <nuxt-link to="/about" class="btn primary-btn text-uppercase hovers">About me</nuxt-link>
             </div>
@@ -80,7 +74,7 @@
               <div class="row pt-4 mb-3">
                 <div class="col-12 col-sm-4 col-md-4 col-lg-4" data-aos="fade-left " data-aos-delay="500">
                   <div class="interests">
-                    <img src="~/assets/icon/web-development.png" class="image-icon lg mb-2" alt="" />
+                    <img src="https://web-online-course.s3.ap-southeast-1.amazonaws.com/davitofficial/web-development.png" class="image-icon lg mb-2" alt="" />
                     <h3 class="text-white">Web Develop</h3>
                     <p>
                       Today, the online experience is essential to the success of every business and organization. Without
@@ -91,7 +85,7 @@
                 </div>
                 <div class="col-12 col-sm-4 col-md-4 col-lg-4" data-aos="fade-left" data-aos-delay="700">
                   <div class="interests">
-                    <img src="~/assets/icon/backend-icon-24.png" class="image-icon lg mb-2" alt="" />
+                    <img src="https://web-online-course.s3.ap-southeast-1.amazonaws.com/davitofficial/backend-icon-24.png" class="image-icon lg mb-2" alt="" />
                     <h3 class="text-white">BackEnd Developer</h3>
                     <p>
                       A back-end web developer is responsible for server-side web application logic and integration of the
@@ -101,7 +95,7 @@
                 </div>
                 <div class="col-12 col-sm-4 col-md-4 col-lg-4" data-aos="fade-left" data-aos-delay="900">
                   <div class="interests">
-                    <img src="~/assets/icon/ux.png" class="image-icon lg mb-2" alt="" />
+                    <img src="https://web-online-course.s3.ap-southeast-1.amazonaws.com/davitofficial/ux.png" class="image-icon lg mb-2" alt="" />
                     <h3 class="text-white">Frontend Developer</h3>
                     <p>
                       A front-end developer is a type of software developer who specializes in creating and designing the

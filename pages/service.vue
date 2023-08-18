@@ -10,7 +10,8 @@
                 <div class="box">
                   <div class="box-icon1"></div>
                   <div class="box-icon2">
-                    <img src="~/assets/icon/web_design.png" class="image-icon lg mb-2 box-img-service" alt="" />
+                    <img src="https://web-online-course.s3.ap-southeast-1.amazonaws.com/davitofficial/web_design.png"
+                      class="image-icon lg mb-2 box-img-service" alt="" />
                   </div>
                 </div>
                 <div class="" style="margin-top: -61px;">
@@ -26,7 +27,8 @@
                 <div class="box">
                   <div class="box-icon1"></div>
                   <div class="box-icon2">
-                    <img src="~/assets/img/develop_website.png" class="image-icon lg mb-2 box-img-service" alt="" />
+                    <img src="https://web-online-course.s3.ap-southeast-1.amazonaws.com/davitofficial/develop_website.png"
+                      class="image-icon lg mb-2 box-img-service" alt="" />
                   </div>
                 </div>
                 <div class="" style="margin-top: -61px;">
@@ -42,7 +44,8 @@
                 <div class="box">
                   <div class="box-icon1"></div>
                   <div class="box-icon2">
-                    <img src="~/assets/img/pos.png" class="image-icon lg mb-2 box-img-service" alt="" />
+                    <img src="https://web-online-course.s3.ap-southeast-1.amazonaws.com/davitofficial/pos.png"
+                      class="image-icon lg mb-2 box-img-service" alt="" />
                   </div>
                 </div>
                 <div class="" style="margin-top: -61px;">
@@ -58,7 +61,8 @@
                 <div class="box">
                   <div class="box-icon1"></div>
                   <div class="box-icon2">
-                    <img src="~/assets/img/development.png" class="image-icon lg mb-2 box-img-service" alt="" />
+                    <img src="https://web-online-course.s3.ap-southeast-1.amazonaws.com/davitofficial/development.png"
+                      class="image-icon lg mb-2 box-img-service" alt="" />
                   </div>
                 </div>
                 <div class="" style="margin-top: -61px;">
@@ -74,7 +78,8 @@
                 <div class="box">
                   <div class="box-icon1"></div>
                   <div class="box-icon2">
-                    <img src="~/assets/img/support.png" class="image-icon lg mb-2 box-img-service" alt="" />
+                    <img src="https://web-online-course.s3.ap-southeast-1.amazonaws.com/davitofficial/support.png"
+                      class="image-icon lg mb-2 box-img-service" alt="" />
                   </div>
                 </div>
                 <div class="" style="margin-top: -61px;">
@@ -90,15 +95,13 @@
                 <div class="box">
                   <div class="box-icon1"></div>
                   <div class="box-icon2">
-                    <img src="~/assets/img/maintenance.png" class="image-icon lg mb-2 box-img-service" alt="" />
+                    <img src="https://web-online-course.s3.ap-southeast-1.amazonaws.com/davitofficial/maintenance.png"
+                      class="image-icon lg mb-2 box-img-service" alt="" />
                   </div>
                 </div>
                 <div class="" style="margin-top: -61px;">
                   <h3 class="text-white mt-3 title-service">MAINTENANCE</h3>
                 </div>
-                <!-- <p class="p-1">
-                  I offer maintenance of website for my clients
-                </p> -->
               </div>
             </div>
           </div>
@@ -198,5 +201,4 @@ export default {
 .title-service {
   font-size: 24px !important;
   font-weight: 700;
-}
-</style>
+}</style>

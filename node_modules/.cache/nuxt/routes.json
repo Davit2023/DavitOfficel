@@ -3,48 +3,56 @@
     "name": "about",
     "path": "/about",
     "component": "D:\\\\projects\\\\projects_2023\\\\PersonalBlog_production_github\\\\DavitOfficel\\\\pages\\\\about.vue",
-    "chunkName": "pages/about"
+    "chunkName": "pages/about",
+    "_name": "_4457ee57"
   },
   {
     "name": "contact",
     "path": "/contact",
     "component": "D:\\\\projects\\\\projects_2023\\\\PersonalBlog_production_github\\\\DavitOfficel\\\\pages\\\\contact.vue",
-    "chunkName": "pages/contact"
+    "chunkName": "pages/contact",
+    "_name": "_dedaee2c"
   },
   {
     "name": "course",
     "path": "/course",
     "component": "D:\\\\projects\\\\projects_2023\\\\PersonalBlog_production_github\\\\DavitOfficel\\\\pages\\\\course.vue",
-    "chunkName": "pages/course"
+    "chunkName": "pages/course",
+    "_name": "_ef0f867e"
   },
   {
     "name": "home1",
     "path": "/home1",
     "component": "D:\\\\projects\\\\projects_2023\\\\PersonalBlog_production_github\\\\DavitOfficel\\\\pages\\\\home1.vue",
-    "chunkName": "pages/home1"
+    "chunkName": "pages/home1",
+    "_name": "_0fdc177c"
   },
   {
     "name": "project",
     "path": "/project",
     "component": "D:\\\\projects\\\\projects_2023\\\\PersonalBlog_production_github\\\\DavitOfficel\\\\pages\\\\project\\\\index.vue",
-    "chunkName": "pages/project/index"
+    "chunkName": "pages/project/index",
+    "_name": "_7106c3bf"
   },
   {
     "name": "service",
     "path": "/service",
     "component": "D:\\\\projects\\\\projects_2023\\\\PersonalBlog_production_github\\\\DavitOfficel\\\\pages\\\\service.vue",
-    "chunkName": "pages/service"
+    "chunkName": "pages/service",
+    "_name": "_1b31d8ff"
   },
   {
     "name": "index",
     "path": "/",
     "component": "D:\\\\projects\\\\projects_2023\\\\PersonalBlog_production_github\\\\DavitOfficel\\\\pages\\\\index.vue",
-    "chunkName": "pages/index"
+    "chunkName": "pages/index",
+    "_name": "_640fc91c"
   },
   {
     "name": "project-edit",
     "path": "/project/:edit",
     "component": "D:\\\\projects\\\\projects_2023\\\\PersonalBlog_production_github\\\\DavitOfficel\\\\pages\\\\project\\\\_edit.vue",
-    "chunkName": "pages/project/_edit"
+    "chunkName": "pages/project/_edit",
+    "_name": "_060ade56"
   }
 ]
